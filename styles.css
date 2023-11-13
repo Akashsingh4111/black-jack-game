@@ -1,0 +1,34 @@
+h1{
+    color: goldenrod;
+
+}
+
+body{
+    color:black;
+    background-image: url("Blackjack-3.jpeg");
+    font-family: "Rokkitt", "Times New Roman", Times, serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    background-size: cover;
+
+}
+#message-el{
+    align-items: center;
+    font-style: italic;
+}
+
+.button1{
+    background-color: goldenrod;
+    color: blue;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 2px;
+    font-weight: bold;
+}
